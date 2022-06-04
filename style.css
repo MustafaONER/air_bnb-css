@@ -1,0 +1,108 @@
+body {
+  width: 1000px;
+  margin: auto;
+}
+#one {
+  margin-bottom: 0px;
+}
+
+hr {
+  margin-top: 0px;
+}
+
+#center {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0px;
+}
+
+#left {
+  width: 38%;
+}
+
+form {
+  margin-top: 10px;
+}
+
+form input {
+  width: 165px;
+}
+
+#formtwo {
+  margin-top: 0px;
+}
+
+#formtwo input {
+  width: 40px;
+  border-radius: 5px;
+}
+
+#right {
+  width: 58%;
+  display: flex;
+  justify-content: space-between;
+}
+
+#ri {
+  width: 36%;
+}
+
+#le {
+  width: 62%;
+}
+
+#le img {
+  width: 358px;
+  height: 220px;
+}
+
+#letup {
+  display: block;
+}
+
+#letup img {
+  width: 50px;
+  height: 50px;
+}
+
+#letup p {
+  display: inline-block;
+  vertical-align: top;
+  margin-top: 1px;
+}
+
+#ri h5 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: rgb(240, 119, 240);
+  font-size: 10px;
+}
+
+#ri img {
+  margin-top: 0px;
+  width: 150px;
+  height: 70px;
+}
+
+#ri .riall span {
+  font-size: 9px;
+  margin-top: 0px;
+}
+
+#middle h5 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: rgb(240, 119, 240);
+  font-size: 10px;
+}
+#middle p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 9px;
+}
+#middle img {
+  margin-top: 0px;
+  margin-bottom: 10px;
+  width: 150px;
+  height: 70px;
+}
